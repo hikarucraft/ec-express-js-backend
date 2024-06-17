@@ -1,4 +1,4 @@
-openai: 3.0.0
+openapi: 3.0.0
 info:
   title: express-js-e-commerce
   description: E Commerce backend server with express.js
