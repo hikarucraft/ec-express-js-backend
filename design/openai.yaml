@@ -1,0 +1,11 @@
+openai: 3.0.0
+info:
+  title: express-js-e-commerce
+  description: E Commerce backend server with express.js
+  license:
+    name: MIT
+  version: 0.1.0
+
+servers:
+  - url: http://localhost
+    description: local server
